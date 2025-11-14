@@ -1,0 +1,57 @@
+body{
+    background-color: rgb(242, 234, 234);
+    justify-content: center;
+    display: flex;
+    padding: 25px;
+    align-items: center;
+    min-height: 85vh;
+}
+
+h1{
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+h2{
+    text-align: center;
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+
+.profile-pic{
+  border-radius: 20px;
+  border: 3px solid #edf5ed;
+  margin-bottom: 10px;
+  height: 300px;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+  padding: 15px;
+  border-radius: 30px;
+  box-shadow: 0 4px 8px rgb(0, 0, 0.1);
+}
+
+
+.title{
+    color: rgb(44, 44, 41);
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.bio{
+  margin-bottom: 20px;
+  line-height: 1.5;
+}
+
+a {
+  text-decoration: none;
+  font-size: 17px;
+  color: rgb(21, 16, 16);
+}
